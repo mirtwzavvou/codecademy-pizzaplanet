@@ -1,2 +1,2 @@
-# codecademy-pizzaplanet
-AngularJS Codecademy tutorial PizzaPlanet
+# AngularJS Codecademy tutorial PizzaPlanet
+
